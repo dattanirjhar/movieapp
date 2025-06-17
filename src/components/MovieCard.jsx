@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "../css/MovieCard.css";
+import "/home/nirjhar/PROJECTS/movieapp/movieapp/src/css/MovieCard.css";
 import { useMovieContext } from "../contexts/MovieContext";
 
 function MovieCard({ movie }) {

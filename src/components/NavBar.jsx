@@ -1,4 +1,4 @@
-import "../css/NavBar.css";
+import "/home/nirjhar/PROJECTS/movieapp/movieapp/src/css/Navbar.css";
 import { Link } from "react-router-dom";
 
 function NavBar() {
